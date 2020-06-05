@@ -1,8 +1,8 @@
-# 🚀 Next Level Week (Rocketseat)
+# Next Level Week (Rocketseat)
 
 ![home](https://github.com/Kw-Vinicius/Next-Level-Week---Rocketseat/blob/master/Ecoleta/home.png)
 
-## ♻️ Ecoleta
+## Ecoleta
 
 ## About The Project
 
