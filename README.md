@@ -11,6 +11,6 @@
 
 ![create-point](https://github.com/Kw-Vinicius/Next-Level-Week---Rocketseat/blob/master/Ecoleta/Create-point.png)
 
-![search-bar] (https://github.com/Kw-Vinicius/Next-Level-Week---Rocketseat/blob/master/Ecoleta/Search_bar.png)
+![search-bar](https://github.com/Kw-Vinicius/Next-Level-Week---Rocketseat/blob/master/Ecoleta/Search_bar.png)
 
-![search] (https://github.com/Kw-Vinicius/Next-Level-Week---Rocketseat/blob/master/Ecoleta/sp.png)
+![search](https://github.com/Kw-Vinicius/Next-Level-Week---Rocketseat/blob/master/Ecoleta/sp.png)
