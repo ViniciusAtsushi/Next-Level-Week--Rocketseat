@@ -12,4 +12,4 @@ o ***NunJucks*** para deixar o HTML mais dinâmico e como banco de dados foi usa
 Primeiramente você deve instalar o **[NodeJs](https://nodejs.org/en/download/)**, depois você deve clonar meu repositório. Depois abra o terminal dentro da pasta raiz no protejo e dê um ```npm start``` e abra seu navegador em ***localhost:3000***.
 
 ## 🙂 Minha opinião sobre a NLW? (Baseado na trilha Starter)
-Na minha opinião, o evento NLW foi um excelente primeiro contato em desenvolvimento Web. O conteúdo das aulas foi bem explicado pelo ***[Mayk Brito](https://github.com/maykbrito)*** e os grupos de ajuda no discord contribuiram muito para possíveis dúvidas refentes as aulas. Em geral, essa semana foi ótima e de muito aprendizado.
+Na minha opinião, o evento NLW foi um excelente primeiro contato em desenvolvimento Web. O conteúdo das aulas foi bem explicado pelo ***[Mayk Brito](https://github.com/maykbrito)*** e os grupos de ajuda no discord contribuiram muito para possíveis dúvidas referentes as aulas. Em geral, essa semana foi ótima e de muito aprendizado.
